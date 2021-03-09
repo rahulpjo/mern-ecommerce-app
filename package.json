@@ -1,0 +1,14 @@
+{
+  "name": "mern-ecommerce-page",
+  "version": "1.0.0",
+  "description": "Full stack ecommerce app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Rahul Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
